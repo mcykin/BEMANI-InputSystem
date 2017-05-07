@@ -1,5 +1,3 @@
-# BEMANI-CardReader
-
 BEMANI游戏 泛用 输入IO主控/灯光IO/读卡器
 
 目前支持的游戏
