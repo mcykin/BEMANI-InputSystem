@@ -25,3 +25,14 @@ BEMANI游戏 泛用 输入IO主控/灯光IO/读卡器
     
 目前只支持Arduino Leonardo/Mega2560
 51泛用开发板/STM32泛用开发板稍后。 
+
+附带Arduino用pcb文件
+
+SDVX_Leonardo
+SDVX_RealIO
+IIDX_Leonardo
+IIDX_CardReader
+UB_CardReader
+RB_CardReader
+POPN_Leonardo
+POPN_Cardreader
